@@ -1,2 +1,2 @@
 # chrispua1.github.io
-My page
+This is my page! I will put some projects on this page as I make them.
